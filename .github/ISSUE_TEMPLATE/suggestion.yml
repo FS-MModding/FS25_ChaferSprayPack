@@ -1,0 +1,12 @@
+name: Suggestion
+description: An idea to make the Chafer Spray Pack better
+title: "[Suggestion] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+      description: What should the sprayer, shed or water tank do, and when would it help you?
+    validations:
+      required: true

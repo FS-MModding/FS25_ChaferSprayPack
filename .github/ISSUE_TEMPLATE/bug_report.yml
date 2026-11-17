@@ -1,0 +1,66 @@
+name: Bug report
+description: Something in the Chafer Spray Pack went wrong
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting! Please attach the game's **log.txt** from
+        `Documents/My Games/FarmingSimulator2025/`. Copy it before you start the game again, because the game starts a new one each time.
+        The pack's lines start with `[ChaferInduction]`, `[ChaferHopperRinse]`, `[ChaferAccessSteps]` or `[FarmWaterTank]`.
+  - type: input
+    id: mod-version
+    attributes:
+      label: Spray Pack version
+      description: Shown in the game's mod list.
+      placeholder: "1.0.0.0"
+    validations:
+      required: true
+  - type: input
+    id: game-version
+    attributes:
+      label: Game version
+      placeholder: "1.25.1.0"
+  - type: input
+    id: map
+    attributes:
+      label: Map
+      placeholder: "e.g. Riverbend Springs"
+  - type: dropdown
+    id: area
+    attributes:
+      label: What were you doing?
+      options:
+        - Driving or spraying with the Interceptor
+        - Filling at the induction hopper (INDUCT, ADD WATER, field calculator)
+        - The water tank or its hose
+        - The spray shed or its chemical store
+        - Interactive Control (workstation, lockers, doors, cab switches)
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What you expected instead, and the steps to make it happen again if you know them.
+    validations:
+      required: true
+  - type: textarea
+    id: log
+    attributes:
+      label: Log file and screenshots
+      description: Drag log.txt (and any screenshots) into this box.
+    validations:
+      required: true
+  - type: checkboxes
+    id: other-mods
+    attributes:
+      label: Other mods in use
+      options:
+        - label: Interactive Control
+        - label: AgraGPS
+        - label: Precision Farming
+        - label: Courseplay
+        - label: AutoDrive
