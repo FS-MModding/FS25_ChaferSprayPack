@@ -1,5 +1,7 @@
 # Chafer Spray Pack: Tutorial
 
+*By MModding*
+
 Filling takes four steps: store product in the shed, park by the water tank, INDUCT at the hopper, then ADD WATER through the hose. After that come driving and spraying, the Interactive Control points, and the shed and tank.
 
 ![The Chafer Interceptor 2.0 in a wheat field with its boom unfolded](screenshots/ChaferSprayPack_01_boom-unfolded-side.jpg)
