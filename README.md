@@ -46,9 +46,10 @@ Sprayer options: 30 m boom +8,000, 36 m boom +16,000, PWM nozzle control +6,500,
 - **Engine and drive:** 240 hp Deutz TCD 6.1, hydrostatic drive, up to 50 km/h; front-wheel, all-wheel and crab steering.
 - **Boom:** automatic levelling and smooth boom suspension that settles without wobbling. The boom drops to working height as it unfolds.
 - **Slurry Pipe System option:** a coupling at the fill port, so the tank fills through SPS pipes (needs FS25_SlurryPipeSystem).
-- **See & Spray option:** cameras along the boom spot-spray the weeds and save herbicide (needs Precision Farming).
+- **See & Spray option:** cameras clamped along the spray line spot-spray the weeds and save herbicide (needs Precision Farming).
 - **Cab:** New Holland FR780 cab with a working Chafer DI4 terminal and Topcon X35 screen. AgraGPS can run on the Topcon screen (needs FS25_AgraGPS).
 - **Induction hopper:** its own fill screen. Choose the product and the amount, or a field in the field calculator, then INDUCT, ADD WATER, WATER NOW or BUY. It mixes 20 % product to 80 % water and the water stops by itself.
+- **Washout:** WASHOUT on the hopper screen empties the spray tank through the dump valve under the tank, with the engine revving for the pump. Press it twice to start, once to stop.
 - **Every spray product:** herbicide, liquid fertiliser and spray products from other mods.
 - **Workstation:** RinsePro display, a clean clothing locker, a lid on gas struts, and a clipboard with your farm's fields and their sizes, on any map.
 - **21 Interactive Control points:** workstation, hopper, lockers, toolbox, cab door, engine hood, steering column and the cab switches.
