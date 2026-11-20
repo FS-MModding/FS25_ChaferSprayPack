@@ -1,5 +1,16 @@
 # Changelog
 
+## 1.0.1.0 (20 November 2026)
+
+- **New shop options:** a Slurry Pipe System coupling, so the sprayer fills through SPS pipes (needs FS25_SlurryPipeSystem), and See & Spray, with cameras along the boom that spot-spray the weeds (needs Precision Farming). Both are off unless you choose them.
+- **Boom:** smoother suspension and steadier levelling. The boom no longer wobbles.
+- **Tank:** brushed stainless steel, as on the real machine.
+- **Flickering surfaces fixed:** at the bottom of the steps, on the cab platform, behind both front wheels, and the fill level bar on the RinsePro screen.
+- **Steps:** grated treads like the real ones, with a hydraulic actuator at the step hinge.
+- **Workstation:** the lid lifts on gas struts, with sound. The clipboard lists your farm's fields and their sizes, on any map.
+- **Exhaust:** the flap on the stack lifts with the engine load.
+- **Frame:** front boom rest rebuilt with welded joints; rear mudguard tubes rounded off.
+
 ## 1.0.0.0 (17 November 2026)
 
 First release.
