@@ -42,7 +42,7 @@ Sprayer options: 30 m boom +8,000, 36 m boom +16,000, PWM nozzle control +6,500,
 
 ### Chafer Interceptor 2.0
 
-- **Tank and boom:** 5,000 l brushed stainless steel tank and a G-Series triple-fold boom: 24, 30 or 36 m.
+- **Tank and boom:** 5,000 l brushed stainless steel tank and a G-Series triple-fold boom: 24, 30 or 36 m. High-gloss paint, as on the real machine.
 - **Engine and drive:** 240 hp Deutz TCD 6.1, hydrostatic drive, up to 50 km/h; front-wheel, all-wheel and crab steering.
 - **Boom:** automatic levelling and smooth boom suspension that settles without wobbling. The boom drops to working height as it unfolds.
 - **Slurry Pipe System option:** a coupling at the fill port, so the tank fills through SPS pipes (needs FS25_SlurryPipeSystem).

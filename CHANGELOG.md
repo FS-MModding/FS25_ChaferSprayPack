@@ -6,6 +6,7 @@
 - **Washout:** WASHOUT on the induction hopper screen empties the spray tank through a new dump valve under the tank. The engine revs up for the pump; press it twice to start and once to stop. The sprayer can't be switched on while it runs.
 - **Boom:** smoother suspension and steadier levelling. The boom no longer wobbles.
 - **Tank:** brushed stainless steel, as on the real machine.
+- **Paint:** glossier, like the real machine. The yellow is at full gloss under a clear coat, including the cab's yellow trim, and the dark grey and black paint are glossier too.
 - **Flickering surfaces fixed:** at the bottom of the steps, on the cab platform, behind both front wheels, and the fill level bar on the RinsePro screen.
 - **Steps:** grated treads like the real ones, with a hydraulic actuator at the step hinge.
 - **Workstation:** the lid lifts on gas struts, with sound, fixed to brackets on the lid and the body. The clipboard lists your farm's fields and their sizes in clear capitals, on any map; more fields than fit turn over in pages.
