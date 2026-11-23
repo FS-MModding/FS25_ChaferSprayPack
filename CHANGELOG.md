@@ -12,6 +12,7 @@
 - **Workstation:** the lid lifts on gas struts, with sound, fixed to brackets on the lid and the body. The clipboard lists your farm's fields and their sizes in clear capitals, on any map; more fields than fit turn over in pages.
 - **Exhaust:** the flap on the stack lifts with the engine load.
 - **Frame:** front boom rest rebuilt with welded joints; rear mudguard tubes rounded off.
+- **Spray shed:** the 'Spraying in progress' A-board on the front apron is gone.
 
 ## 1.0.0.0 (17 November 2026)
 
