@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.1.1 (25 November 2026)
+
+- **Multiplayer fix:** players who join a game now see the products in the chemical store on the induction hopper screen. Before, the screen tried to read the stored pallets on the player's own computer, where the game keeps only part of their data, and wrote a script error to the log each time it refreshed (`setXMLInt: Argument 2 has wrong type` from `ChaferInduction.lua` `readObjects`). The server now sends the stock to each player. The server and every player need 1.0.1.1.
+
 ## 1.0.1.0 (20 November 2026)
 
 - **New shop options:** a Slurry Pipe System coupling, so the sprayer fills through SPS pipes (needs FS25_SlurryPipeSystem), and See & Spray, with cameras along the boom that spot-spray the weeds (needs Precision Farming). Both are off unless you choose them.
